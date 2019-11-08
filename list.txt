@@ -1,0 +1,4 @@
+trace.svc.ui.com
+news.provider.plex.tv
+metrics.plex.tv
+music.provider.plex.tv
